@@ -8,7 +8,7 @@ You can access the code and run the simulation using below link;
 
 
 
-[EEDA_playground](https://www.edaplayground.com/x/dtg7)
+[EDA_playground](https://www.edaplayground.com/x/dtg7)
 
 
 
